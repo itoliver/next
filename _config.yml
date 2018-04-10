@@ -307,7 +307,7 @@ highlight_theme: normal
 font:
   enable: false
 
-  # Uri of fonts host. E.g. //fonts.googleapis.com (Default).
+  # Uri of fonts host. E.g. //fonts.useso.com (Default).
   host:
 
   # Font options:
