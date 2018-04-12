@@ -589,7 +589,7 @@ busuanzi_count:
 
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
-baidu_push: false
+baidu_push: true
 
 # Google Calendar
 # Share your recent schedule to others via calendar page
@@ -832,3 +832,9 @@ version: 5.1.4
 #文本结束标记
 post-end-tag:
   enabled: true
+
+# hexo-admin authentification
+#admin:
+#  username: admin
+#  password_hash: $2a$10$0UwV03s.RKSWlAtUbvri..PdK.I05ss3t9CqWbGTHp1uGK86VnhXa
+#  secret: itoliver
